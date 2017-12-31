@@ -2,6 +2,6 @@
 
 I had always intended to come back to the Iris problem.
 
-On my <a href="/pages/iris">first attempt</a>, I simplified the problem to just two classes of Iris, and used a simple perceptron model to linearly separate them.
+On my first attempt, I simplified the problem to just two classes of Iris, and used a simple perceptron model to linearly separate them.
 
 This time around, I have experience using neural networks and keras, so I wanted to apply what I've learned to the three-class Iris problem.
